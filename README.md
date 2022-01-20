@@ -1,6 +1,5 @@
-### Olá! Eu sou Vitor Bernardo 👋
+### Olá, eu sou Vitor Bernardo! Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 
-- Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 ##
 
 <div align="center">
