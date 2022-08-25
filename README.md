@@ -1,8 +1,10 @@
-### Olá, eu sou Vitor Bernardo! Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+# Olá, eu sou Vitor Bernardo! Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 
 ##
 
-# Ainda estou em busca de uma oportunidade para iniciar minha carreira na area de Desenvolvimento Web.
+### Ainda estou em busca de uma oportunidade para iniciar minha carreira na area de Desenvolvimento Web.
+
+##
 
 <div align="center">
   <a href="https://github.com/vitor-bernardo">
