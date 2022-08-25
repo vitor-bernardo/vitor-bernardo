@@ -2,7 +2,7 @@
 
 ##
 
-### Ainda estou em busca de uma oportunidade para iniciar minha carreira na area de Desenvolvimento Web.
+# Estou em busca de uma oportunidade para iniciar minha carreira na area de Desenvolvimento Web.
 
 ##
 
