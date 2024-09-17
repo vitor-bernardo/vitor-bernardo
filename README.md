@@ -1,7 +1,5 @@
 # Olá, eu sou Vitor Bernardo! Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 
-##
-
 <div align="center">
   <a href="https://github.com/vitor-bernardo">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=vitor-bernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
