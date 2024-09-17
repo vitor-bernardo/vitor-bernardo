@@ -2,10 +2,6 @@
 
 ##
 
-# Estou em busca de uma oportunidade para iniciar minha carreira na area de Desenvolvimento Web.
-
-##
-
 <div align="center">
   <a href="https://github.com/vitor-bernardo">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=vitor-bernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
