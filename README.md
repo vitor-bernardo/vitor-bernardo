@@ -2,14 +2,17 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Vitor Bernardo, tenho 25 anos e sou natural do interior de São Paulo. Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC e apaixonado por tecnologia desde cedo.
+Olá! Sou o Vitor, tenho 25 anos e sou natural do interior de São Paulo. Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC e apaixonado por tecnologia desde cedo.
 
 Atualmente atuo na área de desenvolvimento Front-End, com foco na criação de interfaces modernas, responsivas e funcionais utilizando tecnologias como React, JavaScript, HTML e CSS.
 
-> *"Da linha de suporte ao código. Eu acredito que entender o usuário é tão importante quanto escrever boas interfaces."*
+> *"Da linha de suporte ao código, eu acredito que entender o usuário é tão importante quanto escrever boas interfaces."*
 
 Minha trajetória na tecnologia começou através do suporte técnico e atendimento ao cliente, experiência que me proporcionou uma forte capacidade de comunicação, resolução de problemas e entendimento das necessidades dos usuários. Com o tempo, direcionei minha carreira para o desenvolvimento de software, área onde venho me aprofundando continuamente.
 
+<br><br>
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -86,9 +89,9 @@ Minha trajetória na tecnologia começou através do suporte técnico e atendime
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
----
+<br><br>
 
-### 📊 GitHub Stats
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-bernardo&theme=tokyonight&hide_border=true" height="150" />
