@@ -86,9 +86,10 @@ Minha trajetória na tecnologia começou através do suporte técnico e atendime
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-bernardo&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vitor-bernardo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" />
 </p>
