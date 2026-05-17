@@ -10,8 +10,6 @@ Atualmente atuo na área de desenvolvimento Front-End, com foco na criação de 
 
 Minha trajetória na tecnologia começou através do suporte técnico e atendimento ao cliente, experiência que me proporcionou uma forte capacidade de comunicação, resolução de problemas e entendimento das necessidades dos usuários. Com o tempo, direcionei minha carreira para o desenvolvimento de software, área onde venho me aprofundando continuamente.
 
-<br><br>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
