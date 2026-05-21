@@ -8,6 +8,10 @@ Atualmente atuo na área de desenvolvimento Front-End, com foco na criação de 
 
 Minha trajetória na tecnologia começou através do suporte técnico e atendimento ao cliente, experiência que me proporcionou uma forte capacidade de comunicação, resolução de problemas e entendimento das necessidades dos usuários. Com o tempo, direcionei minha carreira para o desenvolvimento de software, área onde venho me aprofundando continuamente.
 
+<br><br>
+
+---
+
 <div align="center">
 
 ### Linguagens e Tecnologias
@@ -23,11 +27,3 @@ Minha trajetória na tecnologia começou através do suporte técnico e atendime
 <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 </div>
-
-<br><br>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-bernardo&theme=tokyonight&hide_border=true" height="150" />
-</p>
